@@ -1,0 +1,42 @@
+Mr. David Smith is looking for some help in understanding how clustering techniques are used for a K-means Model using the cancer.csv dataset 
+
+ the dataset contains the following:
+
+Independent Variables:
+
+id: id number 
+Clump Thickness: 1 - 10 
+Uniformity of Cell Size: 1 - 10 
+Uniformity of Cell Shape: 1 - 10 
+Marginal Adhesion: 1 - 10 
+Single Epithelial Cell Size: 1 - 10 
+Bare Nuclei: 1 - 10 
+Bland Chromatin: 1 - 10 
+Normal Nucleoli: 1 - 10 
+Mitoses: 1 - 10 
+Dependent Variable:
+
+Class: (2 for benign, 4 for malignant)
+
+ 
+
+Note: Please drop the “id” column prior to analysis (see Week4b example for code)
+
+ 
+
+The Ask:
+
+ 
+
+In a PPT presentation please provide the following:
+ 
+
+            a)    Cover Page (Title, First and Last Name, Student Number)
+
+            b)   Description of what analysis you will be conducting
+
+            c)    Identify the number of clusters required to optimize a K-means Model by using both the Elbow and Silhouette Methods.
+
+           d)   Identify two(2) insights from the newly created clusters
+
+2. HTML copy of your Python Code

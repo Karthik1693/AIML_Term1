@@ -1,0 +1,16 @@
+Report Layout
+--------------------
+
+our name and pic
+outcome - what we learnt ..tools skills etc
+problem statement - what is this project about
+our approach
+
+explain each steps
+.
+.
+.
+.
+
+future plan for extra feature 
+conclusion

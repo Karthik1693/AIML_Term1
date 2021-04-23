@@ -1,0 +1,28 @@
+Midterm assignment
+Select one of the following for your midterm assignment:
+
+1- Find a numerical dataset online (having at least 5k data rows); and use Facebook Prophet to forecast it.
+2- Find brand-new images dataset from the internet, and Retrain a Resnext / Resnet model to detect the new target object.
+3- Use fashion MNIST dataset; available in TF/ Keras datasets; and make a TF model (from-scratch) to learn this dataset.
+
+Who will get the full note on this assignment?
+
+-The student who uses creative and new codes (not copy and paste from internet)
+-The student who uses unique unique training data
+-The student who does the job perfectly, correctly, and provides details and report on how she/he did the assignment.
+
+Who will NOT get the full note on this assignment?
+- copy and paste from internet
+- copy and paste from other students
+- there are similar works between students to the student's work
+
+Do not consult with your friends about this assignment. Why? Because, there is a risk you make a similar work, and both of you miss some points.
+
+The report and explanation should be at least 2 pages. In the report, provide the details such as accuracy rate and performance.
+
+What are the deliveries? pdf file of your work report and link to your colab files.
+
+Something important about your colab file: make sure you have your name on the colab file (top-left), and also make sure you give access to everyone to view your colab file.
+
+Due date: March 26
+How to deliver the results back to me? Through the moodle console

@@ -1,0 +1,8 @@
+K means clustering
+
+K Means Clustering :
+-> Comes under unsupervised learning.
+-> Identify the number of cluster we want which is K Value or Centroid.(Elbow method - Find wess value which shows minimum change)
+-> Randomnly select K data points.
+-> Measure the distance between data points and the K values,group them into clusters based on the distance(use Eucledian distance),then find the mean.
+-> Change the K value to mean and cluster again until group doesnt change after changing K value with mean,

@@ -1,0 +1,41 @@
+Assignment 1 -Group project
+Assignment 1: Build a performing machine learning algorithm
+
+***** ONE PERSON TO UPLOAD ON BEHALF OF GROUP *****
+
+To build a performing machine learning model from A-Z. Suggested resources in links. It has all of the instruction together with the scripts to build your model. Go through it to see which parts will apply to the model you are trying to build and the dataset you are working with:
+
+https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af
+
+https://www.slideshare.net/CharlesVestur/building-a-performing-machine-learning-model-from-a-to-z
+
+ 
+
+Use http://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/ and work with processed Cleveland data. .
+
+Desription: https://archive.ics.uci.edu/ml/datasets/heart+Disease
+
+In each group, only person  is supposed to do the submission. The submission materials for each group are:
+
+HTML of Python code(50 marks)
+
+The HTML format(export as HTML) of the python code (.py file ) with the execution result 
+Make sure you gave Group name -participants on the Top
+Inline documentation(Markdown) for each step in the code.
+Report (50 marks):
+
+one report in PDF format. Each group member should contribute equally with others. Your reports will be submitted on Turnitin account. 
+Write a report which is no longer than 10 pages.
+Explain the dataset you are using, explain all the preprocessing steps, what the features are and what the class/es is/are, and their types.  Build a classifier on this dataset, explain why you are choosing it and how it works.
+Evaluate your best result, analyze the result and write a summary and conclusion. Use print screen of the result, the classifier and the data plot both in your report and your presentation only.
+Presentation (50 marks):
+
+Each group member should present the work on March 16th during the class time. The presentation should not be more than 15 minutes including setup. 
+Note:  each group should be ready to present once called. 
+Report in turninit Due date : Mar14th
+
+Presentation due date: Mar 16th in class.
+
+HTML version of code file submission due: Mar 14th
+
+Submission will delays are associated with a reduction of the mark so make sure you are not submitting with delay.
